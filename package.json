@@ -1,5 +1,6 @@
 {
   "name": "@marcuth/promise",
+  "description": "A simple, lightweight utility to handle Promises in TypeScript without repetitive `try/catch` blocks. Inspired by Go's error handling pattern.",
   "version": "0.1.0",
   "type": "commonjs",
   "main": "./dist/index.js",
@@ -20,7 +21,11 @@
     "access": "public"
   },
   "keywords": [
-    "marcuth"
+    "marcuth",
+    "promise",
+    "typescript",
+    "utility",
+    "error-handling"
   ],
   "author": "Marcuth",
   "license": "MIT",
@@ -36,5 +41,13 @@
     "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcuth/promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcuth/promise/issues"
+  },
+  "homepage": "https://github.com/marcuth/promise",
 }

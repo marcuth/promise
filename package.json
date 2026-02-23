@@ -50,4 +50,7 @@
     "url": "https://github.com/marcuth/promise/issues"
   },
   "homepage": "https://github.com/marcuth/promise",
+  "sponsor": {
+    "url": "https://github.com/sponsors/marcuth"
+  }
 }
